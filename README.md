@@ -12,7 +12,7 @@
 
 **游戏流程：**
 
-<img src="C:/Users/liaoz/AppData/Roaming/Typora/typora-user-images/image-20231204201114487.png" alt="image-20231204201114487" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/MMMMrD/Image/main/img/image-20231204201114487.png" alt="image-20231204201114487" style="zoom:67%;" />
 
 <center>图1  游戏流程图</center>
 
@@ -39,3 +39,4 @@
 
 ## 项目地址
 
+https://github.com/MMMMrD/Battle-of-Balls
